@@ -49,4 +49,4 @@ for guess in guesses:
 print()
 
 score = int(score / len(questions) * 100)
-pri
+print(f"Your score is: {score}%")
